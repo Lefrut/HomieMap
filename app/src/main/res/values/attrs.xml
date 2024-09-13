@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <declare-styleable name="Theme">
+            <attr name="primary" format="color"/>
+            <attr name="surface" format="color"/>
+            <attr name="onSurface" format="color"/>
+        </declare-styleable>
+</resources>

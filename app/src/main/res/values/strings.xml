@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomieMap</string>
+    <string name="ilya">Илья</string>
+    <string name="failed_gps">Не удалось получить локацию</string>
+    <string name="gps">GPS</string>
+    <string name="random_date">02.07.17</string>
+    <string name="random_time">14:00</string>
+    <string name="view_history">Посмотреть историю</string>
+</resources>
